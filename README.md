@@ -1,4 +1,4 @@
-# Exploratory and predive data analysis for the Odette Consulting Group(OCG)
+# Exploratory and predictive data analysis for the Odette Consulting Group(OCG)
 
 The OCG, a consultant group located in Windsor, Ontario that serves clients from various sectors including IT and non-IT, conducted a survey of 200 clients to measure satisfaction with their services. Data were processed, including data quality assessment, transformation, and reduction, before analysis. Explanatory data analysis was used to understand distribution and patterns, and predictive analysis, including linear regression, logistic regression, and K nearest neighbor, was used to predict and classify results. Dependent variables were recommendation and partnership, while independent variables included customer type, industry type, firm size, region, client portfolio management, innovative project management, responsiveness, expertise, competitive consulting fee, communication, and implementation. Results showed satisfaction has a positive relationship with recommendation and potential for future partnership.
 
